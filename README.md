@@ -20,11 +20,11 @@ A complete machine learning pipeline that classifies SMS/email messages as **Spa
 
 | Spam Detected | Legitimate Message |
 |---|---|
-| ![Spam result](spam_screenshot.png) | ![Ham result](ham_screenshot.png) |
+| ![spam result](spam_screenshot.png) | ![Ham result](ham_screenshot.png) |
 
 ## 📁 Project Structure
 
-​```
+```
 spam-email-detection/
 ├── data/
 │   └── spam.csv
@@ -37,7 +37,7 @@ spam-email-detection/
 ├── calibrate_model.py
 ├── requirements.txt
 └── README.md
-​```
+```
 
 ## ⚙️ Setup
 
@@ -60,9 +60,9 @@ Walks through every step of the assignment: dataset collection, loading, EDA, te
 
 ## 🌐 Run the Web App
 
-​```bash
+```bash
 streamlit run streamlit_app.py
-​```
+```
 
 Opens automatically at **http://localhost:8501**. Paste a message (or use the built-in spam/ham examples) to get an instant prediction with a confidence score.
 
