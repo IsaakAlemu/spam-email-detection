@@ -37,7 +37,7 @@ spam-email-detection/
 ├── calibrate_model.py
 ├── requirements.txt
 └── README.md
-​```
+```
 
 ## ⚙️ Setup
 
