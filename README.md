@@ -20,7 +20,7 @@ A complete machine learning pipeline that classifies SMS/email messages as **Spa
 
 | Spam Detected | Legitimate Message |
 |---|---|
-| ![spam result](spam_screenshot.png) | ![Ham result](ham_screenshot.png) |
+| ![Spam result](spam_screenshot.png) | ![Ham result](ham_screenshot.png) |
 
 ## 📁 Project Structure
 
