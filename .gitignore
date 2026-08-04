@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# NLTK data (downloaded at runtime, not needed in repo)
+nltk_data/
+
+# OS / editor
+.DS_Store
+.vscode/
